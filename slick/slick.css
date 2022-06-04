@@ -1,9 +1,7 @@
 /* Slider */
 .slick-slider
 {
-display: flex;
-flex-direction: column;
-align-items: center;
+position:relative;
 
 display: block;
 box-sizing: border-box;
